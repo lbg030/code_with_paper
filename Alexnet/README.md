@@ -1,3 +1,3 @@
-# 모델 구조
+# Model Architecture
 
 ![AlexNet Image](Alexnet.png)
